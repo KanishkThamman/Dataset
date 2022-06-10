@@ -1,0 +1,6 @@
+pillow==7.1.2
+numpy==1.21.6
+matplotlib==3.2.2
+keras==2.8.0 
+opencv-python==4.1.2.30
+pytest-shutil==1.7.0
